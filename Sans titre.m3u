@@ -1,0 +1,408 @@
+#EXTM3U
+#EXTINF:0,TF1 FULL HD
+http://skdn.redi-vo.com/iptv/ch9006?code=138137164006399&key=51656
+#EXTINF:0,M6 FULL HD
+http://skdn.redi-vo.com/iptv/ch9004?code=138137164006399&key=49128
+#EXTINF:0,TF1 HD
+http://skdn.redi-vo.com/iptv/ch207?code=138137164006399&key=10439
+#EXTINF:0,M6 HD
+http://skdn.redi-vo.com/iptv/ch208?code=138137164006399&key=22615
+#EXTINF:0,TF1 Serie Film
+http://skdn.redi-vo.com/iptv/ch258?code=138137164006399&key=35658
+#EXTINF:0,6 Ter HD
+http://skdn.redi-vo.com/iptv/ch262?code=138137164006399&key=28386
+#EXTINF:0,France 2 HD
+http://skdn.redi-vo.com/iptv/ch209?code=138137164006399&key=54755
+#EXTINF:0,France 3 HD
+http://skdn.redi-vo.com/iptv/ch210?code=138137164006399&key=41124
+#EXTINF:0,France 4
+http://skdn.redi-vo.com/iptv/ch219?code=138137164006399&key=31890
+#EXTINF:0,France 5
+http://skdn.redi-vo.com/iptv/ch211?code=138137164006399&key=36471
+#EXTINF:0,France O
+http://skdn.redi-vo.com/iptv/ch212?code=138137164006399&key=58835
+#EXTINF:0,W9 HD
+http://skdn.redi-vo.com/iptv/ch220?code=138137164006399&key=25231
+#EXTINF:0,Altice Studio HD
+http://skdn.redi-vo.com/iptv/ch374?code=138137164006399&key=38595
+#EXTINF:0,E. Fr
+http://skdn.redi-vo.com/iptv/ch392?code=138137164006399&key=18931
+#EXTINF:0,Non Stop People Fr.
+http://skdn.redi-vo.com/iptv/ch272?code=138137164006399&key=50766
+#EXTINF:0,OCS Choc HD
+http://skdn.redi-vo.com/iptv/ch226?code=138137164006399&key=44130
+#EXTINF:0,OCS City HD
+http://skdn.redi-vo.com/iptv/ch259?code=138137164006399&key=15980
+#EXTINF:0,OCS Geant HD
+http://skdn.redi-vo.com/iptv/ch394?code=138137164006399&key=47895
+#EXTINF:0,OCS Max HD
+http://skdn.redi-vo.com/iptv/ch393?code=138137164006399&key=10722
+#EXTINF:0,Cine + Emotion HD
+http://skdn.redi-vo.com/iptv/ch741?code=138137164006399&key=25656
+#EXTINF:0,Cine Frisson HD
+http://skdn.redi-vo.com/iptv/ch270?code=138137164006399&key=19982
+#EXTINF:0,Cine Famiz
+http://skdn.redi-vo.com/iptv/ch288?code=138137164006399&key=30797
+#EXTINF:0,Cine Premiere
+http://skdn.redi-vo.com/iptv/ch275?code=138137164006399&key=28736
+#EXTINF:0,Canal+
+http://skdn.redi-vo.com/iptv/ch200?code=138137164006399&key=11088
+#EXTINF:0,Canal+ Cinema
+http://skdn.redi-vo.com/iptv/ch201?code=138137164006399&key=21828
+#EXTINF:0,Canal+ Family
+http://skdn.redi-vo.com/iptv/ch204?code=138137164006399&key=61730
+#EXTINF:0,Canal+ Sport
+http://skdn.redi-vo.com/iptv/ch202?code=138137164006399&key=35116
+#EXTINF:0,Canal+ Decale
+http://skdn.redi-vo.com/iptv/ch203?code=138137164006399&key=12296
+#EXTINF:0,Canal+ series HD
+http://skdn.redi-vo.com/iptv/ch205?code=138137164006399&key=46883
+#EXTINF:0,TCM FR
+http://skdn.redi-vo.com/iptv/ch1113?code=138137164006399&key=42073
+#EXTINF:0,Action HD
+http://skdn.redi-vo.com/iptv/ch271?code=138137164006399&key=18779
+#EXTINF:0,Paramount ch. FR
+http://skdn.redi-vo.com/iptv/ch1108?code=138137164006399&key=39041
+#EXTINF:0,Polar Plus FR
+http://skdn.redi-vo.com/iptv/ch286?code=138137164006399&key=23469
+#EXTINF:0,Warner TV FR
+http://skdn.redi-vo.com/iptv/ch285?code=138137164006399&key=47054
+#EXTINF:0,Serie Club HD
+http://skdn.redi-vo.com/iptv/ch233?code=138137164006399&key=32861
+#EXTINF:0,13 eme Rue
+http://skdn.redi-vo.com/iptv/ch256?code=138137164006399&key=59535
+#EXTINF:0,Tv Breizh
+http://skdn.redi-vo.com/iptv/ch251?code=138137164006399&key=61496
+#EXTINF:0,TF1 HD +4
+http://skdn.redi-vo.com/iptv/ch4207?code=138137164006399&key=28284
+#EXTINF:0,France 2 HD +4
+http://skdn.redi-vo.com/iptv/ch4209?code=138137164006399&key=47289
+#EXTINF:0,M6 HD +4
+http://skdn.redi-vo.com/iptv/ch4208?code=138137164006399&key=16658
+#EXTINF:0,W9 HD +4
+http://skdn.redi-vo.com/iptv/ch4220?code=138137164006399&key=62876
+#EXTINF:0,RTL 9
+http://skdn.redi-vo.com/iptv/ch282?code=138137164006399&key=49904
+#EXTINF:0,AB 1
+http://skdn.redi-vo.com/iptv/ch284?code=138137164006399&key=39465
+#EXTINF:0,AB 3
+http://skdn.redi-vo.com/iptv/ch1652?code=138137164006399&key=59465
+#EXTINF:0,TEVA HD
+http://skdn.redi-vo.com/iptv/ch230?code=138137164006399&key=12951
+#EXTINF:0,Viceland Fr.
+http://skdn.redi-vo.com/iptv/ch1297?code=138137164006399&key=12870
+#EXTINF:0,Season Fr.
+http://skdn.redi-vo.com/iptv/ch1298?code=138137164006399&key=43408
+#EXTINF:0,Crime District Fr.
+http://skdn.redi-vo.com/iptv/ch390?code=138137164006399&key=55324
+#EXTINF:0,My Cuisine TV HD
+http://skdn.redi-vo.com/iptv/ch380?code=138137164006399&key=37913
+#EXTINF:0,Ushuaia TV HD
+http://skdn.redi-vo.com/iptv/ch242?code=138137164006399&key=44926
+#EXTINF:0,NAT GEO HD Fr.
+http://skdn.redi-vo.com/iptv/ch235?code=138137164006399&key=61920
+#EXTINF:0,NATGEO WILD HD Fr.
+http://skdn.redi-vo.com/iptv/ch238?code=138137164006399&key=18894
+#EXTINF:0,Planet Plus HD
+http://skdn.redi-vo.com/iptv/ch234?code=138137164006399&key=18968
+#EXTINF:0,Planet Plus AE HD
+http://skdn.redi-vo.com/iptv/ch225?code=138137164006399&key=32007
+#EXTINF:0,Planet Plus CI HD
+http://skdn.redi-vo.com/iptv/ch287?code=138137164006399&key=40972
+#EXTINF:0,Voyage Fr.
+http://skdn.redi-vo.com/iptv/ch236?code=138137164006399&key=19532
+#EXTINF:0,Discovery Family HD Fr.
+http://skdn.redi-vo.com/iptv/ch379?code=138137164006399&key=24846
+#EXTINF:0,Discovery Science HD Fr.
+http://skdn.redi-vo.com/iptv/ch229?code=138137164006399&key=58043
+#EXTINF:0,Discovery Show Case Fr.
+http://skdn.redi-vo.com/iptv/ch241?code=138137164006399&key=58517
+#EXTINF:0,Discovery ID Fr.
+http://skdn.redi-vo.com/iptv/ch249?code=138137164006399&key=17842
+#EXTINF:0,RMC Decouverte
+http://skdn.redi-vo.com/iptv/ch739?code=138137164006399&key=28604
+#EXTINF:0,Histoire
+http://skdn.redi-vo.com/iptv/ch280?code=138137164006399&key=36726
+#EXTINF:0,RMC Story
+http://skdn.redi-vo.com/iptv/ch247?code=138137164006399&key=16179
+#EXTINF:0,Chasse et Peche
+http://skdn.redi-vo.com/iptv/ch283?code=138137164006399&key=28934
+#EXTINF:0,Trek
+http://skdn.redi-vo.com/iptv/ch279?code=138137164006399&key=50558
+#EXTINF:0,Sciences et vie
+http://skdn.redi-vo.com/iptv/ch278?code=138137164006399&key=14576
+#EXTINF:0,Animaux
+http://skdn.redi-vo.com/iptv/ch277?code=138137164006399&key=22246
+#EXTINF:0,Comedie
+http://skdn.redi-vo.com/iptv/ch264?code=138137164006399&key=54838
+#EXTINF:0,C-8
+http://skdn.redi-vo.com/iptv/ch223?code=138137164006399&key=30409
+#EXTINF:0,NRJ 12
+http://skdn.redi-vo.com/iptv/ch214?code=138137164006399&key=62386
+#EXTINF:0,C-Star
+http://skdn.redi-vo.com/iptv/ch228?code=138137164006399&key=42193
+#EXTINF:0,Equipe 21
+http://skdn.redi-vo.com/iptv/ch267?code=138137164006399&key=13410
+#EXTINF:0,Cherie 25
+http://skdn.redi-vo.com/iptv/ch248?code=138137164006399&key=46952
+#EXTINF:0,SYFY HD
+http://skdn.redi-vo.com/iptv/ch237?code=138137164006399&key=36594
+#EXTINF:0,NT 1
+http://skdn.redi-vo.com/iptv/ch213?code=138137164006399&key=26057
+#EXTINF:0,TMC
+http://skdn.redi-vo.com/iptv/ch217?code=138137164006399&key=22627
+#EXTINF:0,Paris Premiere
+http://skdn.redi-vo.com/iptv/ch274?code=138137164006399&key=39958
+#EXTINF:0,ARTE
+http://skdn.redi-vo.com/iptv/ch216?code=138137164006399&key=63483
+#EXTINF:0,France Info
+http://skdn.redi-vo.com/iptv/ch292?code=138137164006399&key=58404
+#EXTINF:0,C-News
+http://skdn.redi-vo.com/iptv/ch299?code=138137164006399&key=29019
+#EXTINF:0,I24 Fr.
+http://skdn.redi-vo.com/iptv/ch1646?code=138137164006399&key=35957
+#EXTINF:0,LCI
+http://skdn.redi-vo.com/iptv/ch298?code=138137164006399&key=39912
+#EXTINF:0,BFM TV
+http://skdn.redi-vo.com/iptv/ch218?code=138137164006399&key=42922
+#EXTINF:0,BFM Paris
+http://skdn.redi-vo.com/iptv/ch375?code=138137164006399&key=64437
+#EXTINF:0,BFM Business
+http://skdn.redi-vo.com/iptv/ch263?code=138137164006399&key=17161
+#EXTINF:0,LCP
+http://skdn.redi-vo.com/iptv/ch245?code=138137164006399&key=47929
+#EXTINF:0,Mezzo Fr.
+http://skdn.redi-vo.com/iptv/ch1653?code=138137164006399&key=26015
+#EXTINF:0,RFM Fr.
+http://skdn.redi-vo.com/iptv/ch1650?code=138137164006399&key=17004
+#EXTINF:0,MCM Top
+http://skdn.redi-vo.com/iptv/ch1107?code=138137164006399&key=39439
+#EXTINF:0,Melody Fr.
+http://skdn.redi-vo.com/iptv/ch293?code=138137164006399&key=31791
+#EXTINF:0,MTV FR
+http://skdn.redi-vo.com/iptv/ch224?code=138137164006399&key=11662
+#EXTINF:0,MTV Hits
+http://skdn.redi-vo.com/iptv/ch246?code=138137164006399&key=64670
+#EXTINF:0,Piwi Fr.
+http://skdn.redi-vo.com/iptv/ch395?code=138137164006399&key=51169
+#EXTINF:0,Toonami
+http://skdn.redi-vo.com/iptv/ch391?code=138137164006399&key=11603
+#EXTINF:0,Game one
+http://skdn.redi-vo.com/iptv/ch1106?code=138137164006399&key=16688
+#EXTINF:0,Boomerang FR
+http://skdn.redi-vo.com/iptv/ch273?code=138137164006399&key=60721
+#EXTINF:0,Boing FR
+http://skdn.redi-vo.com/iptv/ch1645?code=138137164006399&key=49168
+#EXTINF:0,Tiji FR
+http://skdn.redi-vo.com/iptv/ch289?code=138137164006399&key=24861
+#EXTINF:0,Canal J
+http://skdn.redi-vo.com/iptv/ch260?code=138137164006399&key=22644
+#EXTINF:0,Mangas
+http://skdn.redi-vo.com/iptv/ch281?code=138137164006399&key=26998
+#EXTINF:0,Cartoon Network
+http://skdn.redi-vo.com/iptv/ch240?code=138137164006399&key=25433
+#EXTINF:0,Gulli
+http://skdn.redi-vo.com/iptv/ch222?code=138137164006399&key=15599
+#EXTINF:0,Teletoon
+http://skdn.redi-vo.com/iptv/ch276?code=138137164006399&key=52354
+#EXTINF:0,Disney Ch. FR
+http://skdn.redi-vo.com/iptv/ch265?code=138137164006399&key=34325
+#EXTINF:0,Disney Cinemagic FR
+http://skdn.redi-vo.com/iptv/ch1270?code=138137164006399&key=61637
+#EXTINF:0,Disney Junior FR
+http://skdn.redi-vo.com/iptv/ch257?code=138137164006399&key=27574
+#EXTINF:0,Disney XD FR
+http://skdn.redi-vo.com/iptv/ch239?code=138137164006399&key=29223
+#EXTINF:0,Nickelodeon Jr. FR
+http://skdn.redi-vo.com/iptv/ch1272?code=138137164006399&key=20938
+#EXTINF:0,Nickelodeon FR
+http://skdn.redi-vo.com/iptv/ch1271?code=138137164006399&key=37525
+#EXTINF:0,Bet Fr.
+http://skdn.redi-vo.com/iptv/ch1654?code=138137164006399&key=28491
+#EXTINF:0,Equidia Live
+http://skdn.redi-vo.com/iptv/ch269?code=138137164006399&key=51098
+#EXTINF:0,AB Moteur
+http://skdn.redi-vo.com/iptv/ch268?code=138137164006399&key=36521
+#EXTINF:0,Golf Plus FR
+http://skdn.redi-vo.com/iptv/ch1299?code=138137164006399&key=32751
+#EXTINF:0,Golf Channel FR
+http://skdn.redi-vo.com/iptv/ch290?code=138137164006399&key=59993
+#EXTINF:0,EuroSport 1 HD
+http://skdn.redi-vo.com/iptv/ch743?code=138137164006399&key=48421
+#EXTINF:0,EuroSport 2 HD
+http://skdn.redi-vo.com/iptv/ch744?code=138137164006399&key=10156
+#EXTINF:0,Foot Plus
+http://skdn.redi-vo.com/iptv/ch266?code=138137164006399&key=18490
+#EXTINF:0,Infosport HD
+http://skdn.redi-vo.com/iptv/ch250?code=138137164006399&key=59225
+#EXTINF:0,RMC News HD
+http://skdn.redi-vo.com/iptv/ch244?code=138137164006399&key=15341
+#EXTINF:0,Eleven Sport 1 Fr.
+http://skdn.redi-vo.com/iptv/ch1648?code=138137164006399&key=39769
+#EXTINF:0,Eleven Sport 2 Fr.
+http://skdn.redi-vo.com/iptv/ch1649?code=138137164006399&key=45623
+#EXTINF:0,RMC Sport 1 HD
+http://skdn.redi-vo.com/iptv/ch255?code=138137164006399&key=10058
+#EXTINF:0,RMC Sport 2 HD
+http://skdn.redi-vo.com/iptv/ch253?code=138137164006399&key=57982
+#EXTINF:0,RMC Sport 3 HD
+http://skdn.redi-vo.com/iptv/ch254?code=138137164006399&key=55448
+#EXTINF:0,RMC Sport 4 HD
+http://skdn.redi-vo.com/iptv/ch243?code=138137164006399&key=27436
+#EXTINF:0,BeInSport 1 FR
+http://skdn.redi-vo.com/iptv/ch119?code=138137164006399&key=56827
+#EXTINF:0,BeInSport 2 FR
+http://skdn.redi-vo.com/iptv/ch120?code=138137164006399&key=48077
+#EXTINF:0,BeInSport 3 FR
+http://skdn.redi-vo.com/iptv/ch206?code=138137164006399&key=32169
+#EXTINF:0,BeInSport Max 4
+http://skdn.redi-vo.com/iptv/ch340?code=138137164006399&key=64428
+#EXTINF:0,BeInSport Max 5
+http://skdn.redi-vo.com/iptv/ch341?code=138137164006399&key=17045
+#EXTINF:0,BeInSport Max 6
+http://skdn.redi-vo.com/iptv/ch342?code=138137164006399&key=39644
+#EXTINF:0,BeInSport Max 7
+http://skdn.redi-vo.com/iptv/ch343?code=138137164006399&key=56108
+#EXTINF:0,BeInSport Max 8
+http://skdn.redi-vo.com/iptv/ch344?code=138137164006399&key=18962
+#EXTINF:0,BeInSport Max 9
+http://skdn.redi-vo.com/iptv/ch345?code=138137164006399&key=34780
+#EXTINF:0,BeInSport Max 10
+http://skdn.redi-vo.com/iptv/ch346?code=138137164006399&key=15102
+#EXTINF:0,A LA Carte 1
+http://skdn.redi-vo.com/iptv/ch300?code=138137164006399&key=50699
+#EXTINF:0,A LA Carte 2
+http://skdn.redi-vo.com/iptv/ch301?code=138137164006399&key=55050
+#EXTINF:0,A LA Carte 3
+http://skdn.redi-vo.com/iptv/ch302?code=138137164006399&key=10731
+#EXTINF:0,A LA Carte 4
+http://skdn.redi-vo.com/iptv/ch303?code=138137164006399&key=34841
+#EXTINF:0,A LA Carte 5
+http://skdn.redi-vo.com/iptv/ch304?code=138137164006399&key=11003
+#EXTINF:0,A LA Carte 6
+http://skdn.redi-vo.com/iptv/ch305?code=138137164006399&key=60741
+#EXTINF:0,A LA Carte 7
+http://skdn.redi-vo.com/iptv/ch306?code=138137164006399&key=56105
+#EXTINF:0,A LA Carte 8
+http://skdn.redi-vo.com/iptv/ch307?code=138137164006399&key=53101
+#EXTINF:0,A LA Carte 9
+http://skdn.redi-vo.com/iptv/ch308?code=138137164006399&key=32595
+#EXTINF:0,A LA Carte 10
+http://skdn.redi-vo.com/iptv/ch309?code=138137164006399&key=51503
+#EXTINF:0,Fr Box Office 1
+http://skdn.redi-vo.com/iptv/ch300?code=138137164006399&key=13001
+#EXTINF:0,Fr Box Office 2
+http://skdn.redi-vo.com/iptv/ch301?code=138137164006399&key=52378
+#EXTINF:0,Fr Box Office 3
+http://skdn.redi-vo.com/iptv/ch302?code=138137164006399&key=57496
+#EXTINF:0,Fr Box Office 4
+http://skdn.redi-vo.com/iptv/ch303?code=138137164006399&key=12622
+#EXTINF:0,Fr Box Office 5
+http://skdn.redi-vo.com/iptv/ch304?code=138137164006399&key=14278
+#EXTINF:0,Fr Box Office 6
+http://skdn.redi-vo.com/iptv/ch305?code=138137164006399&key=55158
+#EXTINF:0,Fr Box Office 7
+http://skdn.redi-vo.com/iptv/ch306?code=138137164006399&key=42149
+#EXTINF:0,Fr Box Office 8
+http://skdn.redi-vo.com/iptv/ch307?code=138137164006399&key=37723
+#EXTINF:0,Fr Box Office 9
+http://skdn.redi-vo.com/iptv/ch308?code=138137164006399&key=18946
+#EXTINF:0,Fr Box Office 10
+http://skdn.redi-vo.com/iptv/ch309?code=138137164006399&key=14106
+http://sansat.net:25461/027313437724/0AEZ3rG0l8/55459
+#EXTINF:0,BE: EEN HD
+http://sansat.net:25461/027313437724/0AEZ3rG0l8/55460
+#EXTINF:0,BE: Q2 HD
+http://sansat.net:25461/027313437724/0AEZ3rG0l8/55461
+#EXTINF:0,BE: VTM HD
+http://sansat.net:25461/027313437724/0AEZ3rG0l8/55462
+#EXTINF:0,BE: VTM KIDS/KANAAL Z
+http://sansat.net:25461/027313437724/0AEZ3rG0l8/55463
+#EXTINF:0,BE: VIER HD
+http://sansat.net:25461/027313437724/0AEZ3rG0l8/55464
+#EXTINF:0,BE: VIJF TV
+http://sansat.net:25461/027313437724/0AEZ3rG0l8/55465
+#EXTINF:0,BE: ZES
+http://sansat.net:25461/027313437724/0AEZ3rG0l8/55466
+#EXTINF:0,BE: CAZ
+http://sansat.net:25461/027313437724/0AEZ3rG0l8/55467
+#EXTINF:0,BE: VITAYA
+http://sansat.net:25461/027313437724/0AEZ3rG0l8/55468
+#EXTINF:0,BE: VTM KIDS JR
+http://sansat.net:25461/027313437724/0AEZ3rG0l8/55469
+#EXTINF:0,BE: KETOP12
+http://sansat.net:25461/027313437724/0AEZ3rG0l8/55470
+#EXTINF:0,BE: JIM JAM
+http://sansat.net:25461/027313437724/0AEZ3rG0l8/55471
+#EXTINF:0,BE: CANVAS HD
+http://sansat.net:25461/027313437724/0AEZ3rG0l8/55472
+#EXTINF:0,BE: ECLIPS TV
+http://sansat.net:25461/027313437724/0AEZ3rG0l8/55473
+#EXTINF:0,BE: PLAY SPORTS 1 HD
+http://sansat.net:25461/027313437724/0AEZ3rG0l8/55474
+#EXTINF:0,BE: PLAY SPORTS 2 HD
+http://sansat.net:25461/027313437724/0AEZ3rG0l8/55475
+#EXTINF:0,BE: PLAY SPORTS 3 HD
+http://sansat.net:25461/027313437724/0AEZ3rG0l8/55476
+#EXTINF:0,BE: PLAY SPORTS 4 HD
+http://sansat.net:25461/027313437724/0AEZ3rG0l8/55477
+#EXTINF:0,BE: PLAY SPORTS 5 HD
+http://sansat.net:25461/027313437724/0AEZ3rG0l8/55478
+#EXTINF:0,===== BE: FRENCH =====
+http://sansat.net:25461/027313437724/0AEZ3rG0l8/55479
+#EXTINF:0,BE: LA UNE HD
+http://sansat.net:25461/027313437724/0AEZ3rG0l8/55480
+#EXTINF:0,BE: LA DEUX
+http://sansat.net:25461/027313437724/0AEZ3rG0l8/55481
+#EXTINF:0,BE: LA TROIS
+http://sansat.net:25461/027313437724/0AEZ3rG0l8/55482
+#EXTINF:0,BE: RTL TVI HD
+http://sansat.net:25461/027313437724/0AEZ3rG0l8/55483
+#EXTINF:0,BE: PLUG RTL
+http://sansat.net:25461/027313437724/0AEZ3rG0l8/55484
+#EXTINF:0,BE: CLUB RTL
+http://sansat.net:25461/027313437724/0AEZ3rG0l8/55485
+#EXTINF:0,BE: ELEVEN SPORTS 1 HD
+http://sansat.net:25461/027313437724/0AEZ3rG0l8/55486
+#EXTINF:0,BE: ELEVEN SPORTS 2 HD
+http://sansat.net:25461/027313437724/0AEZ3rG0l8/55487
+#EXTINF:0,BE: VOOSPORT 1 HD
+http://sansat.net:25461/027313437724/0AEZ3rG0l8/55488
+#EXTINF:0,BE: VOOSPORT 2 HD
+http://sansat.net:25461/027313437724/0AEZ3rG0l8/55489
+#EXTINF:0,BE: VOOSPORT 3 HD
+http://sansat.net:25461/027313437724/0AEZ3rG0l8/55490
+#EXTINF:0,BE: ANTENNE CENTRE
+http://sansat.net:25461/027313437724/0AEZ3rG0l8/55491
+#EXTINF:0,BE: ATV ANTWERPEN
+http://sansat.net:25461/027313437724/0AEZ3rG0l8/55492
+#EXTINF:0,BE: BRUZZ TV
+http://sansat.net:25461/027313437724/0AEZ3rG0l8/55493
+#EXTINF:0,BE: BX1
+http://sansat.net:25461/027313437724/0AEZ3rG0l8/55494
+#EXTINF:0,BE: CANAL ZOOM
+http://sansat.net:25461/027313437724/0AEZ3rG0l8/55495
+#EXTINF:0,BE: FOCUS TV /WTV
+http://sansat.net:25461/027313437724/0AEZ3rG0l8/55496
+#EXTINF:0,BE: MATELE
+http://sansat.net:25461/027313437724/0AEZ3rG0l8/55497
+#EXTINF:0,BE: NOTELE
+http://sansat.net:25461/027313437724/0AEZ3rG0l8/55498
+#EXTINF:0,BE: NRJ BELGIQUE
+http://sansat.net:25461/027313437724/0AEZ3rG0l8/55499
+#EXTINF:0,BE: ROB.TV
+http://sansat.net:25461/027313437724/0AEZ3rG0l8/55500
+#EXTINF:0,BE: TELE MB
+http://sansat.net:25461/027313437724/0AEZ3rG0l8/55501
+#EXTINF:0,BE: TELE SAMBRE
+http://sansat.net:25461/027313437724/0AEZ3rG0l8/55502
+#EXTINF:0,BE: TV COM
+http://sansat.net:25461/027313437724/0AEZ3rG0l8/55503
+#EXTINF:0,BE: TV LUX
+http://sansat.net:25461/027313437724/0AEZ3rG0l8/55504
+#EXTINF:0,BE: TV OOST
+http://sansat.net:25461/027313437724/0AEZ3rG0l8/55505
+#EXTINF:0,BE: TVL
+http://sansat.net:25461/027313437724/0AEZ3rG0l8/55506
+#EXTINF:0,BE: VEDIA
+http://sansat.net:25461/027313437724/0AEZ3rG0l8/55507
